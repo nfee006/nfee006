@@ -20,7 +20,7 @@ Si vous participez, assurez-vous de vous inscrire sur le site https://www.spacea
 
 Êtes-vous :
 - Canadien(ne) et/ou participant(e) à partir d'un site canadien ?
-- Vous relevez l'un des défis de l'Agence spatiale canadienne, que vous trouverez à l'adresse [https://www.asc-csa.gc.ca/eng/open-data/space-apps-challenge.asp#details-year-2023](https://www.asc-csa.gc.ca/fra/donnees-ouvertes/space-apps-challenge.asp) ?
+- Vous relevez l'un des défis de l'Agence spatiale canadienne, que vous trouverez à l'adresse https://www.asc-csa.gc.ca/fra/donnees-ouvertes/space-apps-challenge.asp ?
 - Vous avez besoin d'aide avec un jeu de données ou une ressource canadienne ?
 
 Rejoignez-nous sur le serveur Discord officiel de l'Agence spatiale canadienne pour Space Apps 2023 ! https://discord.com/invite/yGXGr3r76A
